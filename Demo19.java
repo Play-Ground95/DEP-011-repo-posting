@@ -9,7 +9,7 @@ public class Demo19 {
         //var identifier
         //======================
 
-        var myInt3=22; //var mean a variable // in that type we must declare a value.
+        var myInt3 = 22; //var mean a variable // in that type we must declare a value.
 
         //syntax --> var identifier= expression
 
